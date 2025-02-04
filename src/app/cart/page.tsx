@@ -1,5 +1,5 @@
 "use client"
-import Link from "next/link";
+// import Link from "next/link";
 import Image, { StaticImageData } from "next/image";
 import { useCart } from "../components/CartContext";
 import { Heart, Trash2 } from "lucide-react";
